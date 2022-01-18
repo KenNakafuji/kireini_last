@@ -1,4 +1,4 @@
-#<IfModule mod_negotiation.c>
+<IfModule mod_negotiation.c>
     #    Options -MultiViews
     #</IfModule>
  
